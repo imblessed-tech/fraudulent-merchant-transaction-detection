@@ -58,4 +58,3 @@ Per 10,000 payments (about 221 fraudulent), LightGBM review outcomes:
 
 ## Repository contents
 - `fraud_detection.ipynb`: analysis, feature engineering, modelling and evaluation
-- `merchant_risk_simulator.py`: generator for the synthetic dataset
